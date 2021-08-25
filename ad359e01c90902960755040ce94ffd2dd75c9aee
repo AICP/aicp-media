@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "942a3257_a5938aef",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 343
+      },
+      "writtenOn": "2021-08-25T16:53:25Z",
+      "side": 1,
+      "message": "it already generates thumbs. or did I get you wrong?",
+      "revId": "ad359e01c90902960755040ce94ffd2dd75c9aee",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
