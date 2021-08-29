@@ -51,6 +51,24 @@
       "message": "These thumbs are for populating the list for remote wallpapers, else it lags on loading large wallpapers\n",
       "revId": "ad359e01c90902960755040ce94ffd2dd75c9aee",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "840303e9_e751a009",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 343
+      },
+      "writtenOn": "2021-08-29T19:59:59Z",
+      "side": 1,
+      "message": "the site generates different sizes from which you choose in the left hamburger panel... The index is even a full picture viewer. What can i say?",
+      "parentUuid": "89df2699_d2b8d950",
+      "revId": "ad359e01c90902960755040ce94ffd2dd75c9aee",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
