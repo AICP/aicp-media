@@ -69,6 +69,24 @@
       "parentUuid": "89df2699_d2b8d950",
       "revId": "ad359e01c90902960755040ce94ffd2dd75c9aee",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4574f41b_9af9ebcd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2021-08-30T14:53:50Z",
+      "side": 1,
+      "message": "These thumbs are for the OmniStyle\u0027s remote proposed wallpaper feature, without which there is a noticeable lag.\n\nIt would be good to hide the thumbs folder using h5ai\u0027s configs, as they only serve the above-mentioned purpose.",
+      "parentUuid": "840303e9_e751a009",
+      "revId": "ad359e01c90902960755040ce94ffd2dd75c9aee",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
