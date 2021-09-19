@@ -104,6 +104,23 @@
       "message": "doc, let us wait...we are looking at something.",
       "revId": "ad359e01c90902960755040ce94ffd2dd75c9aee",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1df123c9_b1ee945f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2021-09-19T17:01:19Z",
+      "side": 1,
+      "message": "The feature will work even if the change is not merged as the change is preserved on GitHub and I\u0027m pulling the images from those URLs",
+      "revId": "ad359e01c90902960755040ce94ffd2dd75c9aee",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
